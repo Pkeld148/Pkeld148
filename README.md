@@ -1,6 +1,6 @@
-### Hey, I'm Paul! 👋
+## Hey, I'm Paul! 👋
 
-## I'm full stack developer currently looking for my first job.  
+#### I'm full stack developer currently looking for my first job.  
 
 <img width="250" src="https://media.giphy.com/media/HteV6g0QTNxp6/giphy-downsized-large.gif?cid=ecf05e47iiqmowcwb7onlefgp405lfyc5d2lv8swkf911zxf&rid=giphy-downsized-large.gif&ct=g">
 <!--
